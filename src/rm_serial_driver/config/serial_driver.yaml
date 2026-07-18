@@ -1,0 +1,9 @@
+/**:
+  ros__parameters:
+    target_frame: odom
+    timestamp_offset: 0.006
+    port_name: "/dev/ttyACM0"  #/dev/ttyUART
+    protocol: "sentry"
+    enable_data_print: false  # 总开关：设置为false关闭所有数据打印
+    enable_input_print: false  # 控制输入数据打印：一般保持关闭
+    enable_output_print: true  # 控制输出数据打印：设置为true打印发送的数据 

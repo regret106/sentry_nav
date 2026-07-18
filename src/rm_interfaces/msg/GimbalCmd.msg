@@ -1,0 +1,10 @@
+std_msgs/Header header
+float64 pitch
+float64 yaw
+float64 yaw_diff
+float64 pitch_diff
+float64 distance
+bool fire_advice
+bool is_spining
+bool is_navigating
+geometry_msgs/Twist twist
