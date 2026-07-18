@@ -1,7 +1,5 @@
 哨兵导航，采用北极熊框架
 
-
-🤪️北极熊
 cd ros_ws
 source install/setup.bash
 sudo chmod 777 /dev/ttyACM0
